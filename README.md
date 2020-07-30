@@ -9,4 +9,6 @@
 
 **SpleefX-PAPI**: https://github.com/SpleefX/SpleefX-PAPI
 
+How to compile it?
+
 [![JetBrains Open Source License](https://i.imgur.com/0Hxepvj.png)](https://www.jetbrains.com/?from=SpleefX)
